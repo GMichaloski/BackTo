@@ -1,5 +1,5 @@
 # BackTo
-*BackTo is a short game about a cube looking for his spaceship*
+*BackTo is a short game about a time traveller cube looking for his spaceship*
 
 
 
